@@ -19,3 +19,7 @@ Sistema generador de códogo C#, genera capas DataLayer, BusinessLayer, procedim
 ### 📦 Detalles
 
 
+#### 📖 [**Ventana de acceso**](#-roadmap)
+###### Permite conectarse a un servidor y seleccionar la base de datos base del desarrollo.
+
+[Pantalla de Acceso](https://raw.githubusercontent.com/jdonoso/SharpGenerator/main/images/acceso.png)
